@@ -32,6 +32,12 @@ Pre-trained models for fine-grained user activity recognition.
 
 ## Attacking Device Design
 
+The design and code for running the attacking device is available at folder `hardware`.
+
+* `Gerber_PCB_Attacking_Device.zip`: PCB printing file for the attacking device.
+
+* `Schematic_Attacking_Device.pdf`: Circuit design of the attacking device.
+
 <p align="center">
      <img src="https://github.com/taoni0718/BankSnoop/blob/main/figures/attacking_device.png" width = "500" height = "200" hspace="20"/>
 </p>
