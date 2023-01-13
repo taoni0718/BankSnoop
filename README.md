@@ -32,4 +32,6 @@ Pre-trained models for fine-grained user activity recognition.
 
 ## Attacking Device Design
 
-![alt-text-1](figures/attacking_device.png "title-1") ![alt-text-2](figures/attacking_device.png "title-2")
+A | B | C
+- | - | -
+![alt1](figures/attacking_device.png) | ![alt2](figures/circuit_design.png) | ![alt3](figures/pcb_figure.png)
