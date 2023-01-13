@@ -31,3 +31,5 @@ Pre-trained models for fine-grained user activity recognition.
 * `qwerty_keystroke_inference_model.h5`: Model for recognizing QWERTY keystrokes (from a to z, including the interval key).
 
 ## Attacking Device Design
+
+![alt-text-1](figures/attacking_device.png "title-1") ![alt-text-2](figures/attacking_device.png "title-2")
