@@ -32,6 +32,22 @@ Pre-trained models for fine-grained user activity recognition.
 
 ## Attacking Device Design
 
-A | B | C
-- | - | -
-![alt1](figures/attacking_device.png) | ![alt2](figures/circuit_design.png) | ![alt3](figures/pcb_figure.png)
+<p align="center">
+     <img src="https://github.com/taoni0718/BankSnoop/blob/main/figures/attacking_device.png" width = "700" height = "350" hspace="70"/>
+</p>
+<p align="center">
+Prototype of the attacking device, circuit design, and the PCB producing file.
+</p>
+
+## Ethical Consideration
+
+<ins>This anonymous repository is used for artifact submission only.</ins> This work takes ethical considerations seriously, and it has been approved by our IRB to collect data from human participants.
+In addition, sensitive information, including screen-unlocking passcodes and in-app sensitive user inputs, are generated randomly for effectiveness evaluation only.
+The user accounts involved are our own accounts.
+BankSnoop and our custom-built attacking device have <ins>NEVER</ins> been released to any other parties.
+
+## Reference
+
+* [MAML-Keras](https://github.com/Runist/MAML-keras)
+* [MAML-PyTorch](https://github.com/dragen1860/MAML-Pytorch)
+* [Charging Lab](https://www.chargerlab.com/)
