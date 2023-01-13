@@ -33,7 +33,7 @@ Pre-trained models for fine-grained user activity recognition.
 ## Attacking Device Design
 
 <p align="center">
-     <img src="https://github.com/taoni0718/BankSnoop/blob/main/figures/attacking_device.png" width = "700" height = "350" hspace="70"/>
+     <img src="https://github.com/taoni0718/BankSnoop/blob/main/figures/attacking_device.png" width = "500" height = "200" hspace="20"/>
 </p>
 <p align="center">
 Prototype of the attacking device, circuit design, and the PCB producing file.
