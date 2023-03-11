@@ -45,6 +45,16 @@ The design and code for running the attacking device is available at folder `har
 Prototype of the attacking device, circuit design, and the PCB producing file.
 </p>
 
+## Random Testing Sequence in Passcode/Keystroke Recognition
+
+| **L** |    **Test Sequence**    | **L** |            **Test Sequence**           | **L** |    **Test Sequence**    | **L** |            **Test Sequence**           |
+|:-----:|:-----------------------:|:-----:|:--------------------------------------:|:-----:|:-----------------------:|:-----:|:--------------------------------------:|
+|   1   |       3<br>6<br>9       |   6   |       157789<br>046778<br>134689       |   1   |       c<br>o<br>e       |   6   |       cpsigw<br>jmuxyz<br>naplok       |
+|   2   |      68<br>59<br>27     |   7   |      3456689<br>1224679<br>0246789     |   2   |      lp<br>di<br>nf     |   7   |      kfjvdxm<br>ntcsbqk<br>pojaemw     |
+|   3   |    567<br>249<br>013    |   8   |    11667788<br>23346778<br>03456689    |   3   |    ajw<br>qsu<br>beg    |   8   |    xnvplwtr<br>gduhryqf<br>abvlmeko    |
+|   4   |   4098<br>3679<br>0346  |   9   |   013577899<br>112336689<br>346777788  |   4   |   rlnp<br>xrqm<br>aybt  |   9   |   iukmgtkbl<br>qnsovknku<br>tcshleyrp  |
+|   5   | 01359<br>13678<br>24569 |   10  | 0003455678<br>0235666888<br>0113455669 |   5   | segra<br>nycod<br>tkmwx |   10  | frxreqvokf<br>ijbsuifxkw<br>mwbtmdntiv |
+
 ## Ethical Consideration
 
 <ins>This anonymous repository is used for artifact submission only.</ins> This work takes ethical considerations seriously, and it has been approved by our IRB to collect data from human participants.
