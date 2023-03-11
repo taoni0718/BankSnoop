@@ -38,10 +38,10 @@ The design and code for running the attacking device is available at folder `har
 
 * `Schematic_Attacking_Device.pdf`: Circuit design of the attacking device.
 
-<p align="center">
+<p align="left">
      <img src="./figures/attacking_device.png" width = "500" height = "200" hspace="20"/>
 </p>
-<p align="center">
+<p align="left">
 Prototype of the attacking device, circuit design, and the PCB producing file.
 </p>
 
