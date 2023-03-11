@@ -1,5 +1,5 @@
 # Artifacts of BankSnoop
-Anonymous artifact submission to ACM CCS 2023 for paper "Exploiting Contactless Side Channels in Wireless Charging Power Banks for User Privacy Inference via Few-shot Learning"
+Anonymous artifact submission to ACM MobiCom 2023 for paper "Exploiting Contactless Side Channels in Wireless Charging Power Banks for User Privacy Inference via Few-shot Learning"
 
 ## Content
 
